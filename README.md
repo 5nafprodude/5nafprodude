@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I’m Naf
 
-<!--
-**5nafprodude/5nafprodude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a simple somebody who likes to learn new things and break stuff until it works again.  
+I mess around with code, games, mods, and whatever else catches my brain at 3 AM.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 What I’m building
+- 🕹️ VRChat tools (uploaders, avatar loaders, random fun utilities)  
+- 🎮 Mods for Unity-based games (using BepInEx, because why not)  
+- ⛏️ Minecraft server tools, custom GUIs, and modpacks  
+- ⚙️ Random scripts and bots that make life easier (or just more chaotic)
+
+---
+
+## 🌱 What I’m into right now
+- Python, C#, Unity, and messing with APIs  
+- Tinkering with servers and automation  
+- Reverse engineering (figuring out how games tick under the hood)  
+- Helping friends with events, tech setups, and creative projects  
+
+---
+
+## 💬 Ask me about
+- VRChat avatars & world tools  
+- Game modding with BepInEx  
+- Minecraft server management  
+- Or just nerdy tech experiments in general  
+
+---
+
+## ⚡ Fun facts
+- I’ve performed as a scare actor at haunted houses 👻  
+- I love making random “quality of life” tools that snowball into full projects  
+- Half my ideas start with *“what if I tried this…”*  
+
+---
+
+## 📫 Reach me
+- 🐙 [GitHub](https://github.com/5nafprodude)  
+- 🎮 Discord: (drop me a DM if you know me)  
+- 🌐 Probably online way too late at night
