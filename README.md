@@ -6,10 +6,8 @@ I mess around with code, games, mods, and whatever else catches my brain at 3 AM
 ---
 
 ## 🔨 What I’m building
-- 🕹️ VRChat tools (avatar loaders, random fun utilities)  
 - 🎮 Mods for Unity-based games (using BepInEx, because why not)  
-- ⛏️ Minecraft server tools, custom GUIs, and modpacks  
-- ⚙️ Random scripts and bots that make life easier (or just more chaotic)
+- ⚙️ Random scripts that make life easier (or just more chaotic)
 
 ---
 
