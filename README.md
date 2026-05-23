@@ -12,5 +12,4 @@ I mess around with code, games, mods, and whatever else catches my attention at 
 ---
 
 ## How to reach me.
-- [GitHub](https://github.com/5nafprodude)  
 - Discord: (drop me a DM if you know me)  
